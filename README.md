@@ -12,7 +12,7 @@ With this starter pack, you'll learn how to:
 - Make a bot apply labels on pull requests based on branch name
 - Publish to npm and GitHub Container Registry when changes get merged to the main branch
 
-**The best way to try these out on your own is to fork this repo!** You'll see the actions run every time you push a branch or open a pull request.
+**The best way to try these out on your own is to fork this repo!** You'll see the actions run every time you push a branch or open a pull request. Want to follow along with the YouTube tutorial video for this repo? [Check it out here](https://www.youtube.com/watch?v=tQbZ7_C-KWk&t=32s).
 
 
 ## Workflows
